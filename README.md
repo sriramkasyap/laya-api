@@ -379,5 +379,6 @@ These come from Laya itself and from what this wrapper exposes.
 
 ## Licence and credits
 
+- This repo is licensed under the [Apache License 2.0](LICENSE).
 - [Laya](https://github.com/NandhaKishorM/laya) is Apache 2.0, by Convai Innovations. This repo is a thin HTTP wrapper around it and does not modify it.
 - Jev/TypeSafe is a separate product. This API is shape-compatible with its `/v1/systemone` endpoint so that clients can be reused; there is no affiliation with TypeSafe.
